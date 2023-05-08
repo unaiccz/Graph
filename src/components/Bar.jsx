@@ -7,6 +7,10 @@ function Brb() {
         {name: 'Jane', age: 21, weight: 70},
         {name: 'Joe', age: 22, weight: 40},
         {name: 'Jill', age: 23, weight: 120},
+        {name: 'Jack', age: 24, weight: 90},
+        {name: 'Jenny', age: 25, weight: 75},
+        {name: 'Jerry', age: 26, weight: 80},
+        {name: 'Jesse', age: 27, weight: 90},
     ]
   return (
     <div>
